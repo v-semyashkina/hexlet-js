@@ -1,3 +1,1 @@
-export default () => {
-  return "Hello, Hexlet!";
-};
+export default () => 'Hello, Hexlet!';
